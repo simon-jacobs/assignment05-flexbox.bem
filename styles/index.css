@@ -49,7 +49,7 @@ body {
 
 .rectangle__content4 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     gap: 20px; 
     padding: 10px;
     height: 140px;
